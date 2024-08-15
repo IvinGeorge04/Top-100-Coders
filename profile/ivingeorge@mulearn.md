@@ -7,34 +7,22 @@ I like coding and I am eager to learn more.
 
 ### Portfolio Highlights
 
-
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
 #### Highly Used Software Tools:
 VScode
 python
-
-#### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
 #### Leadership and Influence:
 
 i help my friends in coding.
 
 #### Networking:
-
-- explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
+ I am proficient in building strong professional relationships, fostering open communication, and collaborating across diverse teams. My networking skills revolve around the following key aspects:
+ Effective Communication
+ Building Genuine Connections
+ Adaptability and Continuous Learning:
+ To engage with the Top 100 community, I will focus on the following strategies:
+ Active Participation:
+ Collabaoration on project
+ knowledge sharing
 
 #### As a Top 100 Member:
 i am interested in top 100.
@@ -44,12 +32,23 @@ This will be a great step for me.
 
 #### Career Plan:
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+Engaging in Local Startup Communities: I will actively participate in Kerala's startup events, hackathons, and workshops, connecting with entrepreneurs, innovators, and ecosystem leaders. By collaborating on projects and sharing insights, I aim to help create a stronger and more interconnected startup community.
+
+Providing Mentorship: I plan to mentor budding entrepreneurs and students, offering guidance on the startup journey, particularly in areas like tech development and business strategy. Supporting early-stage startups will help them navigate challenges more effectively.
+
+Working with Incubators and Accelerators: I will collaborate with Kerala's startup incubators and accelerators, offering my technical skills and support to startups. By helping them overcome obstacles and scale, I can contribute to their success.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-By promotiing more technological ideas, inspring youths to develop ideas.
+To help Kerala excel in the Technology Startup Ecosystem, I believe focusing on the following areas will make a significant impact:
+
+Fostering Technological Innovation: support the development and commercialization of new technologies by advocating for grants and incentives for R&D projects. Creating innovation hubs where tech ideas can be nurtured and brought to market is also essential.
+
+Inspiring Young Innovators: engage young people by creating programs and events that spark their interest in technology and entrepreneurship. Organizing workshops, hackathons, and providing mentorship opportunities will help motivate them to develop and pursue their own tech ideas.
+
+Enhancing Education and Training: By providing students with practical experiences through internships and startup projects.
+
+Building a Supportive Ecosystem: the development of more incubators, accelerators, and co-working spaces specifically for tech startups. This supportive infrastructure will offer the resources and guidance startups need to grow and succeed.
 #### Profile Card:
 
 - Share your profile embed link from mulearn dashboard here
